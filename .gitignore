@@ -1,0 +1,9 @@
+/node_modules
+.env
+/uploads
+/assets
+/.idea
+/build
+.dockerignore
+fly.toml
+Dockerfile
